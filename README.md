@@ -1,9 +1,9 @@
-# SurvLIMEpy
+# ShyapleyFDA
 
 This is a very initial implementation of [Functional relevance based on the continuous Shapley value](https://arxiv.org/abs/2411.18575). There is still a lot of work to do.
 
 ## Install
-**SurvLIMEpy** can be installed from PyPI:
+**ShapleyFDA** can be installed from PyPI:
 
 ```
 pip install ShapleyFDA
