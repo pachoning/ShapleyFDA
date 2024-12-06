@@ -70,3 +70,17 @@ shapley_value = shapley_fda.compute_shapley_value(
     compute_mrmr_distance_correlation=False,
 )
 ```
+
+## Citations
+Please if you use this package, do not forget to cite us:
+```
+@misc{delicado2024functionalrelevancebasedcontinuous,
+    title={Functional relevance based on the continuous Shapley value}, 
+    author={Pedro Delicado and Cristian Pachón-García},
+    year={2024},
+    eprint={2411.18575},
+    archivePrefix={arXiv},
+    primaryClass={stat.ML},
+    url={https://arxiv.org/abs/2411.18575}, 
+}
+```
