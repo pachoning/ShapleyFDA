@@ -69,6 +69,9 @@ shapley_value = shapley_fda.compute_shapley_value(
     compute_mrmr_r2=False,
     compute_mrmr_distance_correlation=False,
 )
+
+# Plot the Shapley value function
+shapley_fda.plot()
 ```
 
 ## Citations
